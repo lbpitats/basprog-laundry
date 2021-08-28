@@ -11,7 +11,7 @@ Repository ini adalah Template starter untuk Project Tugas Pertanyaan Modul Pemr
 # Tugas Pertanyaan Modul 1
 
 1. Instal aplikasi VScode, XAMPP dan Composer dengan cara yang ada di modul 1 dengan baik dan benar
-2. Download Template Awal untuk pengerjaan project laundry di link ini : `link repo belum dibuat`
+2. Download Template Awal untuk pengerjaan project laundry di link ini : `https://github.com/lbpitats/basprog-laundry.git`
 3. Setelah proses Download selesai Extract file dan Pindah ke dalam folder direktori `XAMPP` di `C:\xampp\htdocs`
 4. Buat folder `css` & `js` dalam folder `assets` untuk penempatan file yang akan di buat nanti
 5. Buat file `index.html` dalam folder `basprog-laundry` Lalu ketik source code dibawah ini :
