@@ -32,7 +32,11 @@ Repository ini adalah Template starter untuk Project Tugas Pertanyaan Modul Pemr
 
 1. Buka file `style.css` yang berada di folder `assets/css` dan edit code sesuai dengan source code dibawah ini :
 
- <img src="./assets/img/document/img-md2-0.png" width="100%" >
+ <img src="./assets/img/document/img-md2-0.1.png" width="100%" >
+
+ <img src="./assets/img/document/img-md2-0.2.png" width="100%" >
+
+ <img src="./assets/img/document/img-md2-0.3.png" width="100%" >
 
 2. Buka file `index.html` yang berada di folder `basprog-laundry` dan edit code sesuai dengan source code dibawah ini :
 
@@ -192,14 +196,20 @@ Laman Daftar Pelanggan Admin
 
 <img src="./assets/img/document/img-md4-6.png" width="100%" >
 
-9. Buka file `index.php` lalu tambahkan source code untuk load libaray dibagian header dan tambahkan juga source code dibagian else if untuk page admin seperti dibawah ini :
+9. Buka file `main.js` di dalam folder `assets/js` lalu edit file dengan source code dibawah ini
 
 <img src="./assets/img/document/img-md4-7.png" width="100%" >
 
-<img src="./assets/img/document/img-md4-8.png" width="100%" >
+10. Buka file `index.php` lalu tambahkan source code untuk load libaray dibagian header dan tambahkan juga source code dibagian else if untuk page admin seperti dibawah ini :
 
-10. Maka dalam laman admin sudah ada tombol export dan dapat di download hasil report dari daftar transaksi seperti dibawah ini :
+<img src="./assets/img/document/img-md4-8.png" width="100%" >
 
 <img src="./assets/img/document/img-md4-9.png" width="100%" >
 
+11. Maka dalam laman admin sudah ada tombol export dan dapat di download hasil report dari daftar transaksi seperti dibawah ini :
+
 <img src="./assets/img/document/img-md4-10.png" width="100%" >
+
+<img src="./assets/img/document/img-md4-11.png" width="100%" >
+
+Made with ❤️ by [Laboratorium Bahasa Pemrograman](https://lbp.web.id/)
