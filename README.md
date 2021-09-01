@@ -212,4 +212,4 @@ Laman Daftar Pelanggan Admin
 
 <img src="./assets/img/document/img-md4-11.png" width="100%" >
 
-Made with ❤️ by [Laboratorium Bahasa Pemrograman](https://lbp.web.id/)
+Made With ❤️ by [Laboratorium Bahasa Pemrograman](https://lbp.web.id/)
